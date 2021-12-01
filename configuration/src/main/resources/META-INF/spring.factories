@@ -1,0 +1,1 @@
+org.springframework.boot.env.EnvironmentPostProcessor=com.yhy.spring.practice.configuration.config.MyEnvironmentPostProcessor,com.yhy.spring.practice.configuration.config.MyEnvironmentPostProcessor2
